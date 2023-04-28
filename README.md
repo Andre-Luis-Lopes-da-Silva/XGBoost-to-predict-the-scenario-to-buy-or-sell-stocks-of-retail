@@ -17,6 +17,10 @@ STOCK TREND
 
 The trend of the stock was considered only bullish or bearish (binary classification). When the trend was sideway and followed by a uptrend, the trend was considered uptrend because it would be a good opportunite to buy. This same reasoning was used when there was a lateralization followed by a bearish trend.
 
+RESULTS
+
+![Table 1 XGBoost](https://user-images.githubusercontent.com/78765404/235250807-73140429-c4c2-4f80-ac91-eeb726eb8b87.png)
+
 REFERENCES
 
 da Silva, André Luís Lopes (2023): Macroeconomic indices used in predictive model for retail sector in Brazil. figshare. Dataset. https://doi.org/10.6084/m9.figshare.22674859.v1
